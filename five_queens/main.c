@@ -1,3 +1,4 @@
+// 2305 박준선 5Queens 알고리즘 (C언어)
 #include <stdio.h>
 
 int five_queens(int x, int y, int _arr[][5]) 
